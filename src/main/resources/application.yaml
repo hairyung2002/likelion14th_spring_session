@@ -1,0 +1,5 @@
+# Django의 settings.py에 해당하는 자리.
+# 이 세션에서는 DB/JPA 설정이 없어 애플리케이션 이름 외에는 필요한 설정이 없다.
+spring:
+  application:
+    name: springsession
